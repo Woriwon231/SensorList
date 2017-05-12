@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorList</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensor_list_label">Available Sensors</string>
+</resources>
